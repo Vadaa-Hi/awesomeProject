@@ -1,0 +1,27 @@
+const images = {
+  logo_colored: require('./logo_colored.png'),
+  welcome_photo1: require('./welcome_photo1.jpg'),
+  welcome_photo2: require('./welcome_photo2.jpg'),
+  welcome_photo3: require('./welcome_photo3.jpg'),
+  welcome_photo4: require('./welcome_photo4.jpg'),
+  prius: require('./prius.jpeg'),
+  prius1: require('./prius1.jpeg'),
+  prius2: require('./prius2.webp'),
+  bg1: require('./bg1.jpg'),
+  bg2: require('./bg2.jpg'),
+  bg3: require('./bg3.jpg'),
+  logo: require('./logo.png'),
+  rect: require('./rect.png'),
+  Frame1: require('./Frame1.png'),
+  Frame2: require('./Frame2.png'),
+  nature: require('./nature.webp'),
+  back1: require('./back1.jpeg'),
+  avatar: require('./avatar.jpeg'),
+  paris: require('./paris.jpeg'),
+  glass: require('./glass.webp'),
+  visa: require('./visa.png'),
+  paypal: require('./paypal.png'),
+  amazon: require('./amazon.png'),
+};
+
+export default images;
